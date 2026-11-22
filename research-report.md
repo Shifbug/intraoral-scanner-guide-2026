@@ -1,0 +1,73 @@
+# SHINING 3D vs iTero：口內掃描機與完整數位牙科生態系深度研究
+
+## 研究方法與範圍
+
+本次研究**只比較 SHINING 3D 與 Align Technology／iTero**，不納入 Medit、3Shape、Dentsply Sirona、Primescan 或 CEREC，也不把任何其他品牌當成外部參照。主力型號採對稱方式分析：SHINING 3D 為 **Aoralscan Elf、Aoralscan Elite**，並在必要處註明同系列 **Elite Wireless**；iTero 為 **Element 5D Plus、iTero Lumina**，並嚴格區分 **Lumina** 與 **Lumina Pro**。截至 2026 年 11 月，iTero 台灣官網明確標示 **Lumina Pro 在台灣尚未核准上市**，而不含 NIRI 的標準版 Lumina 已在台灣商業上市。證據優先順序是：同儕審查系統性回顧與比較研究 → 原廠 IFU／產品頁／法規與支援文件 → 原廠資助或 Data-on-file 研究 → 獨立臨床評測 → 公開經銷商價格及使用者經驗。原廠宣稱與獨立研究會分開標示，避免把行銷測試等同於臨床證據。尤其 iTero Lumina 官方宣稱的全牙弓準確度來自依 ADA/ANSI 132 標準進行的台架測試，不是大型人體臨床試驗；SHINING 3D Elite 的「IPG 5 μm」同樣是原廠規格值，不能直接視為臨床全口修復的實際誤差。這次所謂「深度研究」與一般聊天搜尋的差異，主要是**工作流程上的嚴謹度**，不是宣稱用了完全不同的網路。深度研究會把問題拆成產品、法規、價格、工作流、臨床用途、學術證據、售後與區域限制，再交叉驗證；一般搜尋常只需取得足以回答單一問題的資料。這次也特別區分了「官方已公開」、「官方未公開」、「經銷商公開」、「使用者現場報價」四個價格層級，而不是把網路價格混成一個數字。
+
+## 產品與價格：先把「官方價」與「市場價」分開
+
+### SHINING 3D
+
+**Aoralscan Elf** 是 106 g 的有線結構光 IOS，三種掃描頭，最大視野 19 × 14 mm，輸出 STL／OBJ／PLY，原廠標示 accuracy up to 0.05 mm；它支援 IntelliBite，但**不支援 Coded Scanbody／IPG**。**Aoralscan Elite** 重 124 g，除一般 IOS 外整合 Intraoral Photogrammetry，原廠標示 IPG precision 5 μm，並以 Coded Scanbody／MUA 工作流處理全口植體位置擷取。Elite Wireless 進一步把 IPG 做成無線，但本研究仍把它視為 Elite 系列變體，而非另一個臨床定位。SHINING 3D **全球原廠官網目前沒有公開 MSRP 或固定零售價**，官方購買頁採「聯絡授權經銷商取得報價」模式；台灣總代理貝殼生技也明確寫「本站不公開售價，採詢價制」。因此，任何固定新台幣價格都不能標成 SHINING 3D 官方定價。可作為國際市場參考、但**不是原廠 MSRP**的獨立價格資料，是 Institute of Digital Dentistry 2026 年評測所列：Elf 約 **US$11,999**、Elite 約 **US$20,000**、Elite Wireless 約 **US$23,999**。該評測並表示其實測認為 Elf 與 Elite 的一般掃描核心非常接近，主要拿掉的是 IPG、金屬機身與較高階機座；這屬獨立評測者的結論，不是原廠承諾。你目前取得的台灣現場資訊為：**Elf 約 NT$45 萬、Elite 約 NT$70–80 萬**。這只能在報告中標成「使用者於 2026-11-22 台灣會場取得之非官方口頭報價」，不能冒充原廠定價。
+
+### iTero
+
+**Element 5D Plus** 是前一代高階平台，採 parallel confocal scanning，5D 版本具有 NIRI，並提供 Cart／Mobile 配置；其核心價值不只掃描本身，而是 Align 的 Invisalign、Outcome Simulator Pro、Progress Assessment、MyiTero 等軟體整合。Outcome Simulator Pro 明確限定在 Element 5D Plus 系列，且需要有效 Service Plan。**iTero Lumina** 使用 Multi-Direct Capture 技術，官方宣稱相較 Element 5D 有三倍視野、較小且較輕的 wand，並強調 deep palate、edentulous space 與複雜區域的掃描能力。標準 Lumina **不含 NIRI**；Lumina Pro 才具有 NIRI。台灣目前可買標準 Lumina，但台灣官方頁仍明列 Lumina Pro 尚未核准上市。Align 目前同樣**沒有公開 Lumina 或 Element 5D Plus 的正式全球 MSRP**。官方 FAQ 直接寫明價格會依型號、軟體包、訓練、支援、促銷及融資方案改變，需要向 iTero representative 或 authorized distributor 詢價。Align 的美國官網曾公開舊款 Element／Element 2／Element Flex 的 MSRP，但不是 Lumina 或 5D Plus，因此不能拿來當目前型號售價。目前可驗證的**非原廠、公開授權經銷市場價**包括 Voxel Dental：Element 5D Plus 約 **US$29,000**；標準 Lumina曾列 **US$39,000 promotional / US$50,000 regular**，Lumina Pro 公開列表則曾出現 **US$39,000 promotional / US$54,000 regular**。這些是美國經銷商價格，不是 Align MSRP，也不能直接套到台灣。你目前取得的台灣現場資訊為 **Lumina 約 NT$70–80 萬**；同樣應標記為非官方現場報價。
+
+另一個真正影響長期成本的差異是 iTero Service Plan。Align 官方說明，Service Plan 包含軟體更新、遠端支援、硬體更換支援與無限雲端儲存；官方條款亦明列，一般情況第一年後需要另外訂閱 Service Plan，除非前期已購買延長方案，但官網**沒有公開全球統一價格**。SHINING 3D 則以 Dental Cloud、Credits 與授權模組為主；其 Credits 可購買設計服務，且 Credits 有期限與區域限制。因此，目前可以負責任寫進網站的價格表應該是：
+
+| 型號 | 官方公開 MSRP | 可驗證公開市場價 | 台灣目前資訊 |
+|---|---:|---:|---:|
+| Aoralscan Elf | **官方未公開** | 約 US$11,999，獨立評測市場價 | 約 NT$45 萬，使用者現場口頭報價 |
+| Aoralscan Elite | **官方未公開** | 約 US$20,000，獨立評測市場價 | 約 NT$70–80 萬，使用者現場口頭報價 |
+| Elite Wireless | **官方未公開** | 約 US$23,999，獨立評測市場價 | 尚無可驗證台灣公開價 |
+| Element 5D Plus | **官方未公開** | 約 US$29,000，美國經銷商 | 尚無本研究可驗證台灣公開價 |
+| iTero Lumina | **官方未公開** | 約 US$39,000 promo／US$50,000 regular，美國經銷商 | 約 NT$70–80 萬，使用者現場口頭報價 |
+| Lumina Pro | **官方未公開** | 美國經銷商曾列至 US$54,000 regular | **台灣尚未核准上市** |
+
+上述國際公開市場價分別來自獨立評測與公開經銷商，不應在網站上寫成「官方價」。## 單顆、局部固定修復與短跨植體
+
+在單冠、Overlay、短橋、單顆植體與短跨植體場景，**Elf 與 Elite 的差距很小；iTero 5D Plus 與 Lumina 的差距則主要在新一代取像硬體與整體使用體驗，而不是能不能做修復。** SHINING 3D 的官方資料與獨立評測皆指出 Elf 使用與 Elite 同世代的掃描核心；iDD 在臨床實測中認為兩者一般修復掃描表現近乎相同，Elf 的主要刪減是 IPG。對這類病例，真正限制 IOS 的往往不是品牌，而是 margin visibility。2025 年系統性回顧發現，subgingival margin 的數位印模準確度會受到唾液、齦下深度與牙齦排開顯著影響；乾燥與有效 retraction 對準確性非常重要。換句話說，六鏡頭、十九毫米視野或 AI stitching 都不能消除臨床上「margin 看不到就掃不到」的基本問題。在「掃描 → 設計 → 當日製作」這件事上，SHINING 3D 的差異化不是 Elf 本身，而是 **SHINING FLOW + AI Design + Ceramix-Nano**。Ceramix-Nano 是 405-nm DLP capsule printer，原廠列出的適應工作流包括 crown、最多三單位 bridge、veneer、inlay、onlay；AI Design 可在雲端進行 margin、contact、occlusion 與 morphology review，再將檔案直接送到 Ceramix-Nano。原廠宣稱單冠列印約 8–11 分鐘、完整 scan-to-cementation 可低至約 30 分鐘。這裡必須特別修正一個常見誤解：**LumiCera 不是 zirconia。** SHINING 3D 官方稱它為 **highly-filled resin／high-filled resin**，以預填 capsule 形式使用；原廠 2026 發表資料稱其已取得 FDA Class II 510(k) clearance。Ceramix-Nano 也支援 Saremco CROWNTEC。因此 SHINING 的優勢是：如果診所真的想把單冠製作搬進院內，Elf 甚至就已經能成為「scan → AI cloud design → print → cure」的入口，不必為了單冠買 Elite。限制則是 Ceramix-Nano 與 LumiCera 都是非常新的 2026 產品，其長期臨床追蹤證據顯然遠少於傳統 milling ceramic／zirconia；網站上不能把原廠「30 分鐘 crown」寫成已被長期臨床研究證實的等價修復策略。iTero 的修復優勢則不是自有 chairside printer，而是成熟的數位病例管理、lab connectivity、occlusogram、oral-health visualization，以及在 Align 旗下與 exocad 的連接。Align 官方也已展示 iTero scan → iTero Design Suite powered by exocad 的贋復案例。**這一類病例的中立判讀是：**純粹以「數位印模」來看，沒有證據支持為 IPG 額外付費；Elf 已覆蓋 SHINING 大多數日常 restorative 能力。若診所重視大型 Align 生態系、影像呈現、病例管理與 Invisalign 共用同一平台，Lumina 的價值就不只是一台 scanner。若要做真正 chairside fabrication，反而 SHINING 的 Nano 生態系更完整，但也更年輕、材料與長期臨床證據仍需時間累積。## 全口活動假牙與固定式 All-on-X
+
+這一區一定要把**無牙顎活動義齒**與**固定式全口植體**分開，因為兩者最難的問題完全不同。
+
+全口活動假牙主要難在大面積無牙軟組織、缺少幾何 landmark、活動黏膜、邊緣封閉與功能性組織形態。2025 年 scoping review 指出，IOS 在完全與部分無牙顎已有實用性，但全無牙顎的準確度仍受掃描範圍、軟組織及演算法影響；2025 年 umbrella review 同樣認為部分無牙與全無牙弓仍是 IOS 的較弱場景。Lumina 的三倍視野與 25 mm capture distance 正是針對 deep palate、edentulous spaces 等難掃區域設計；SHINING 新世代 Elf／Elite 則有最大 19 × 14 mm tip、22 mm depth，獨立 iDD 評測認為新世代 Elf／Elite 在無牙軟組織擷取方面表現明顯優於 SHINING 舊代產品。後者仍屬單一獨立評測者的經驗，不等同 RCT。SHINING 在完整 denture／full-mouth workflow 的真正生態系優勢是能再加 **MetiSmile 面掃、jaw-motion、Dental Cloud／Classic Design、AccuFab 列印**；原廠 SHINING FLOW 把 Denture、All-on-X、Implant、Jaw Motion 與 print 統一放在同一平台。但這並不表示買一台 Elf 就自動得到完整的 jaw-motion／face-scan 資料；這些仍需要額外硬體與相應工作流程。
+
+到了**固定式 All-on-X**，Elite 才真正與 Elf 拉開本質差距。Elite 的 IPG workflow 使用 coded scanbody 搭配 MUA，官方軟體甚至要求在 full-arch implant order 中指定 MUA positions；Elf 明確不支援 Coded Scanbody／IPG。學術證據目前對 Elite IPG 相當有意思，但必須避免過度解讀。2026 年一項體外研究直接比較 extraoral photogrammetry、Elite IPG、iTero Lumina 等系統，得到平均偏差約 **5 μm、29 μm、34 μm**；作者結論是新世代 IOS，尤其 Lumina，在特定模型上已可接近 photogrammetry，而 EPG 仍最準。Elite IPG 與 Lumina 的差異在該研究中並不足以支持「臨床上 Elite 必然勝過 Lumina」的結論。另一篇 2026 年完整牙弓植體研究顯示 Elite IPG 有良好 angular trueness，而整體 accuracy 仍高度受 technology、scanbody 和 protocol 影響。2026 年系統性回顧亦指出，在全口植體 impression 中，photogrammetry 經常具有較高完整牙弓 accuracy；IOS 加 scan-aid 能改善部分 linear deviation，但結果有 system-dependent 特性。所以不能把「Elite 有 IPG」翻譯成「買 Elite 就可以一日全口植牙」。完整 workflow 還包括術前 CBCT／prosthetic planning、MUA、implant stability、咬合關係、face/jaw relation、CAD、臨時假牙設計、列印／切削、後處理與最後 passive-fit verification。SHINING 的優勢是它把其中較多元件放進自家生態系；代價是要真正複製講師展示的工作流，通常仍需 **Elite + coded scanbody/MUA + face/jaw-motion acquisition + design + printer/lab**，不是只買 70–80 萬的 scanner。iTero Lumina 沒有 Elite 那種 coded-scanbody IPG 模式，但目前最值得注意的是，獨立體外研究已證明它的 complete-arch implant trueness 可以非常接近 Elite IPG。這表示如果診所不是要刻意建立 SHINING 的 IPG All-on-X ecosystem，**Lumina 並不能簡單被歸類為「只能做一般掃描、全口植體一定輸 Elite」**。## Invisalign 隱形矯正：iTero 最大的護城河其實不在鏡頭
+
+這一區是兩個品牌最不對稱的地方。
+
+SHINING 3D 可以完成 orthodontic scan、模型與 retainers 等數位工作，SHINING FLOW 也把 orthodontics 列入生態系。但它沒有 Align 所掌握的 Invisalign treatment ecosystem。
+
+iTero 真正的價值不是「掃完可以把 STL 丟給 Invisalign」，而是它直接連到 **Invisalign Doctor Site、ClinCheck 與 Align 的病例流程**。官方資料明確說 iTero scan 可直接進入 IDS／ClinCheck，而 Invisalign Progress Assessment 能把新的 scan 與 ClinCheck treatment plan 比較，追蹤實際牙齒位置與治療計畫的差異。**Outcome Simulator** 是 Invisalign/iTero 的專屬患者溝通工具；更進階的 **Outcome Simulator Pro** 可做 in-face visualization、多種 treatment simulations、3D controls、IPR／extraction 等設定。值得注意的是，Align 官方目前仍明確標示 Outcome Simulator Pro **限定 Element 5D Plus Cart／Mobile 並要求 active Service Plan**；不能假設買 Lumina 就一定獲得完全相同的 Pro 功能。**Invisalign Smile Architect** 更進一步把齒顎矯正與 restorative treatment planning 結合；Align 官方案例展示的是用 Smile Architect 同時規劃牙齒移動與缺牙區修復，治療後再用 iTero Design Suite／exocad 完成贋復設計。**Progress Assessment** 用於治療中監測，官方描述是將新 scan 與 ClinCheck 計畫相比；**Vivera** 則可以在治療完成後承接 retention workflow，官方案例同樣展示 iTero scan 後製作 Vivera retainer。這些功能需要拆成三層理解：
+
+| 層級 | 功能 | 是否「買 scanner 就全部得到」 |
+|---|---|---|
+| iTero 基礎 | IOS、3D model、病例管理、MyiTero、一般修復連接 | 視型號與 Service Plan |
+| iTero＋Align 軟體 | Outcome Simulator、TimeLapse、部分 Oral Health Suite | 依型號／地區／帳戶／方案 |
+| Invisalign 生態系 | ClinCheck、Progress Assessment、Smile Architect、Vivera 等 | **需 Invisalign／Align 治療與相應帳戶權限** |
+
+Align 自己的資料也顯示，這些功能不是純硬體能力。Outcome Simulator Pro 明確需要有效 service plan；Lumina PC Starter Software 亦有部分功能不包含在標準 Service Plan 的警語。因此，如果診所做很多 Invisalign，iTero 的「生態系價值」確實可能大於 scanner hardware 本身。反過來，如果 Invisalign 病例量很低，這些鎖在 Align workflow 裡的功能就可能變成你付了高額設備成本卻很少使用的價值。
+
+Align 常引用「導入 iTero 後 Invisalign case volume 增加」的資料，但這類證據大多是 Align data-on-file、觀察性資料或與商業成長相關的研究，不能直接解讀成每家診所都會得到相同 ROI。官方台灣頁面所引用的低量 Invisalign 使用者 cohort 確實涵蓋台灣，但仍屬商業與使用行為資料，而非隨機試驗。## 生態系、常見優點與限制的總體比較
+
+把硬體拿掉，只看「買進後能長成什麼系統」，兩家公司其實走不同方向。
+
+**SHINING 3D 的強項是垂直整合實體數位製造鏈。** Scanner 之後可以向下延伸至 face scan／jaw motion、AI／Classic Design、AccuFab、Ceramix-Nano 與材料；Elite 再額外加入 IPG。原廠的 SHINING FLOW 明確把 Scan → Design → Print 當成核心架構。**iTero 的強項則是 Align 的診斷、患者溝通、矯正與病例雲端生態系。** 它的差異化價值集中在 Invisalign connectivity、ClinCheck、Outcome Simulator、Progress Assessment、oral-health visualization 與 Align 旗下軟體；Service Plan 則把軟體更新、cloud storage、remote support 和硬體支援包在長期關係裡。獨立評測對 Elf 的普遍稱讚集中在低重量、掃描速度、開放 STL／OBJ／PLY、沒有因價格而刻意限制核心掃描性能；抱怨則包括塑膠質感、需要定期 calibration，以及真正的全口植體 photogrammetry 必須升級 Elite。這些評價主要來自 iDD 的長期 hands-on review，仍應視為高品質獨立評測，而非臨床比較試驗。對 iTero，最明確、可驗證的成本結構限制是：single-use sleeves、Service Plan，以及部分功能與方案／帳戶綁定。Align 官方明確要求 disposable sleeve 每位患者更換，並明列 Service Plan 在第一年後一般需另行訂閱。另一方面，它提供的是一套相當成熟的支援、雲端與 Invisalign 連接體系，這也是為什麼單純用 scanner hardware 規格去比較 Lumina 與 Elf 會低估 iTero 的價值。從五年總持有成本來說，目前**無法負責任地算出精確台灣 TCO**，因為兩家公司都沒有公開台灣完整正式售價、iTero 台灣 Service Plan 年費、SHINING 台灣 AI Design Credits 單價、Ceramix-Nano 台灣機價與 LumiCera capsule 台灣耗材價。可以確定的是，iTero 有制度性的 service-plan 與 disposable-sleeve 成本；SHINING 則有可選／按次設計 Credits 與列印耗材成本，但一般 IOS 軟體不是以相同方式綁定一個公開強制月費。## 中立結論與網站改版應採用的架構
+
+如果把「哪一台比較厲害」改寫成「哪個完整組合對哪一種治療最有價值」，目前證據會得到一個比單純排名更合理的答案。
+
+**單冠、牙橋、Overlay、單顆與短跨植體：**目前沒有很強的學術理由證明一般診所必須從 Elf 升到 Elite；Elite 的主要額外價值不是日常 crown scan，而是 IPG。SHINING 若再搭 Ceramix-Nano，會形成相當有吸引力的 chairside scan-design-print 生態系，但 Nano／LumiCera 是 2026 新產品，長期材料證據仍是缺口。iTero Lumina 的價值則在新世代掃描硬體、視覺化、病例管理與 Align 平台；若只是把它當成「數位印模器」，其價格溢價比較難完整體現。**全口活動義齒：**兩家新世代 scanner 都特別強化大視野與無牙顎掃描，但全無牙顎仍是 IOS 證據中較困難的領域。SHINING 的 face scan／jaw motion／print 生態系較垂直整合；Lumina 的大視野與深掃描則是其硬體上的明確優勢。沒有足夠臨床證據支持其中一家全面勝出。**固定式 All-on-X：**這是 Elite 最有充分理由被考慮的場景，因為 IPG＋coded scanbody＋MUA 是它獨有的設計定位。現有研究支持 Elite IPG 有高 accuracy，但也顯示 Lumina 在某些全口植體模型上可以非常接近 IPG，因此「Elite 必然比 Lumina 準」是不成立的。**Invisalign：**這是 iTero 最大且最難由 SHINING 複製的優勢。ClinCheck、Progress Assessment、Outcome Simulator、Smile Architect、Vivera、IDS 等並不是一台 generic IOS 單靠 STL 就能完整取代的 workflow。診所的 Invisalign 病例比例越高，iTero 的價值越不應只用掃描速度或鏡頭數判斷。因此，下一版網站最適合的結構不是「Elf vs Elite vs Lumina 誰第一」，而是：
+
+**首頁：四台主力機＋價格證據等級 → 單顆／局部修復 → 全口活動義齒 → All-on-X → Invisalign → 生態系地圖 → 五年成本與已知／未知費用 → 學術證據庫 → 台灣上市與法規狀態。**
+
+每個治療頁都應顯示「**Scanner alone**」和「**Maximum ecosystem configuration**」兩欄。例如：
+
+**Elf alone → Elf + SHINING FLOW + AI Design + Ceramix-Nano**  
+**Elite alone → Elite + IPG/MUA + MetiSmile/Jaw Motion + Design + AccuFab/Lab**  
+**5D Plus alone → 5D Plus + Service Plan + Invisalign/ClinCheck/Outcome Simulator Pro**  
+**Lumina alone → Lumina + Align Oral Health／Invisalign ecosystem**
+
+這樣老闆看到的就不是「45 萬機器對 80 萬機器」，而是**四種入口價格，分別能把診所帶到哪一種數位牙科能力，以及每一項進階能力還需要多買什麼、綁什麼帳戶、接受什麼限制。**
+
+依目前證據，**沒有一個合理的全局贏家**。如果目標是日常修復與低成本數位化，Elf 的技術與經濟邏輯很強；若核心發展 All-on-X，Elite 的 IPG 才真正創造獨特價值；若診所把 Invisalign 視為重要成長線，iTero 的 Align 生態系會成為競爭對手難以用單純 scanner 規格取代的優勢；而 Lumina 對於同時要求 restorative、edentulous/full-arch scanning 與 Align 生態系的診所，是 iTero 目前最完整的台灣可用硬體選擇。這些結論分別有產品功能與現有學術證據支持，但最終 ROI 仍取決於各 workflow 的實際病例量，而目前台灣公開價格與長期費用仍存在重大資料缺口。
